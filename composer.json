@@ -1,0 +1,24 @@
+{
+  "name": "ofilin/yii2-fillmodel",
+  "description": "Fill model from last saved model use Session",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Oleg Filin",
+      "email": "ofilin86@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ofilin\\fillmodel\\": ""
+    }
+  }
+}
